@@ -2,6 +2,8 @@ from string import ascii_letters
 from datetime import datetime
 import random
 
+#comment
+
 #1 ----------------------------------
 
 def get_second_letters(string: str) -> list[str]:
